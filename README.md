@@ -19,17 +19,13 @@
 - [python;ml;](#p4)
 - [others](#p5)
 
-<!-- table template
-| title | []() | []() | []() | []() |
-| ----- | ---- | ---- | ---- | ---- |
-| []()  | []() | []() | []() | []() |
-| []()  | []() | []() | []() | []() | -->
+
 *** 
 
 ## 🧐 important <a name = "p1"></a>
 | important                                         | []() | []() | []() | []() |
 | ------------------------------------------------- | ---- | ---- | ---- | ---- |
-| [cs note](https://github.com/tangzixuan/CS-Notes) | []() | []() | []() | []() |
+| [my front](https://github.com/tangzixuan/front) | [my blog](https://github.com/tangzixuan/blog) | [my alg](https://github.com/tangzixuan/alg) | []() | []() |
 ***
 
 ## 💡 front;js;node;ts; <a name = "p2"></a>
